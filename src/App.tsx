@@ -1,11 +1,11 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import "./App.css";
+import About from "./About";
 
 function App() {
   return (
-    <h1 className="text-3xl font-bold underline">
-      Hello!
+    <h1>
+      <About></About>
     </h1>
   );
 }
