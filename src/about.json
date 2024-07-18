@@ -1,0 +1,9 @@
+{
+    "age": {"fr": {"k":"Âge", "v":"21"}, "en": {"k":"Age", "v":"21"}},
+    "city": {"fr":{"k":"Ville", "v":"Bordeaux, France"}, "en": {"k":"City", "v":"Bordeaux, France"}},
+    "university": {"fr": {"k":"Université", "v":"Université de Bordeaux"}, "en": {"k":"University", "v":"University of Bordeaux"}},
+    "email": {"fr": {"k":"Email", "v":"juliette.petit@u-bordeaux.fr"}, "en": {"k":"Email", "v":"juliette.petit@u-bordeaux.fr"}},
+    "tags": {"en": {"k":"Tags", "v":"sweets | dev | kind | black cat | zenyatta | keyboards"}, "fr": {"k":"Tags", "v":"bonbon | dev | sympa | chat noir | zenyatta | claviers"}},
+    "skills": {"fr": {"k":"Compétences"}, "en": {"k":"Skills"}},
+    "title": {"fr": {"k":"À propos"}, "en": {"k":"About me"}}
+}
