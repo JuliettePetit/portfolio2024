@@ -1,0 +1,86 @@
+{
+    "flouflix": {
+        "en": {
+            "name": "Flouflix",
+            "description": "A Netflix clone made with React",
+            "previous": "previous :",
+            "next": "next :",
+            "keywords": ["Symphony","PHP","Web"]
+        },
+        "fr": {
+            "name": "Flouflix",
+            "description": "Un clone de Netflix réalisé avec React",
+            "previous": "précédent :",
+            "next": "suivant :",
+            "keywords": ["Symphonie","PHP","Web"]
+        }
+    },
+    "watersort": {
+        "en": {
+            "name": "Watersort",
+            "description": "A Watersort clone made with React",
+            "previous": "previous :",
+            "next": "next :",
+            "keywords": ["C","SDL",""]
+        },
+        "fr": {
+            "name": "Watersort",
+            "description": "Un clone de Watersort réalisé avec React",
+            "previous": "précédent :",
+            "next": "suivant :",
+            "keywords": ["C","SDL","webassembly"]
+        }
+    },
+    "take6":{
+        "en":{
+            "name":"Take6",
+            "description":"A Take6 game made with React",
+            "previous":"previous :",
+            "next":"next :","keywords":["C","SDL",""]},
+        "fr":{"name":"6 qui prend",
+            "description":"Un jeu de Take6 réalisé avec React",
+            "previous":"précédent :",
+            "next":"suivant :",
+            "keywords":["C#","","IHM"]
+        }
+    },
+    "pong":{},
+    "minishell":{},
+    "mosaic":{},
+    "Lowatem":{},
+    "Labyrinthe":{},
+    "bloomfilter":{
+        "en":{
+            "name":"Bloomfilter",
+            "description":"For this project, I implemented a Bloom filter in Java. \nThe goal is to seek time and efficiency differences between data structures. To create a Bloom filter, you insert elements by hashing them with different function (I used for instance the default function and multiplicative method) then you put ones in your bloom filter at the index of the hash values.\n I ploted and explained the results in python, available in my git repository :https://github.com/JuliettePetit/BloomFilter/blob/main/rapport_JuliettePetit.ipynb",
+            "previous":"previous :",
+            "next":"next :",
+            "keywords":["Java","Python","Algorithm"]
+        },
+        "fr":{
+            "name":"Filtre de Bloom",
+            "description":"Pour ce projet, j'ai implémenté un filtre de Bloom en Java. \nLe but est de chercher les différences de temps et d'efficacité entre les structures de données. Pour créer un filtre de Bloom, vous insérez des éléments en les hachant avec différentes fonctions (j'ai utilisé par exemple la fonction par défaut et la méthode multiplicative) puis vous mettez des uns dans votre filtre de Bloom à l'index des valeurs de hachage.\n J'ai tracé et expliqué les résultats en python, disponibles dans mon dépôt git :",
+            "previous":"précédent :",
+            "next":"suivant :",
+            "keywords":["Java","Python","Algorithme"]
+        }
+    },
+    "webpagegenerator":{},
+    "graphes":{
+        "en":{
+            "name":"Graphes",
+            "description":"A graphes project made with C",
+            "previous":"previous :",
+            "next":"next :",
+            "keywords":["Java","","Algorithm"]
+        },
+        "fr":{
+            "name":"Graphes",
+            "description":"Un projet de graphes réalisé avec C",
+            "previous":"précédent :",
+            "next":"suivant :",
+            "keywords":["Java","","Algorithme"]
+        }
+    },
+    "rsa":{}
+}
